@@ -17,22 +17,22 @@ for email in email_list:
     <html>
       <body>
         <p>To Whom It May Concern,</p>
-        <p>My name is <strong>Sergii Shevchenko</strong> and I am a <strong>Python Web Developer</strong> with an experience of <strong style="color:red">1 year</strong>.</p>
-        <p>Currently, I am looking for new opportunities as a <strong>Junior Python Developer</strong>.</p>
-        <p>I live in <strong>Lausanne</strong>, canton of <strong>Vaud</strong>.</p>
-        <p>I have permission to live and work in <strong>Switzerland</strong> (<strong style="color:red">Legitimation card R, Permission Ci</strong>).</p>
-        <p>Unfortunately, I don't speak <strong>French</strong> and <strong>German</strong> (only <strong style="color:red">English</strong> and <strong style="color:red">Russian</strong>).</p>
-        <p>My <strong>GitHub</strong> account - <strong>https://github.com/sergiishevchenko</strong></p>
-        <p><strong><i style="color:blue">Should you require further information, please do not hesitate to contack me.</i></strong></p>
-        <p><strong><i style="color:blue">Attached you can find the documents that may interest you.</i></strong></p>
+        <p>My name is Sergii Shevchenko and I am a Python Web Developer with an experience of 1 year.</p>
+        <p>Currently, I am looking for new opportunities as a Junior Python Developer.</p>
+        <p>I live in Lausanne, canton of Vaud.</p>
+        <p>I have permission to live and work in Switzerland (Legitimation card R, Permission Ci).</p>
+        <p>Unfortunately, I don't speak French and German (only English and Russian).</p>
+        <p>My GitHub account - https://github.com/sergiishevchenko</p>
+        <p>Should you require further information, please do not hesitate to contack me.</p>
+        <p>Attached you can find the documents that may interest you.</p>
         <p></p>
         <p></p>
         <p></p>
         <p>Best regards</p>
-        <p><strong>Sergii Shevchenko</strong></p>
-        <strong>mail:</strong> <strong>sergsheva1704@gmail.com<br></strong>
-        <strong>telegram:</strong> <strong style="color:blue">@sergsheva</strong><br>
-        <strong>tel.:</strong> <strong style="color:blue">+41778154379</strong>
+        <p>Sergii Shevchenko</p>
+        mail: sergsheva1704@gmail.com<br>
+        telegram: @sergsheva<br>
+        tel.: +41778154379
       </body>
     </html>
     """
